@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="you_first"> You go first.</string>
+    <string name="enemy_first"> The enemy goes first.</string>
+    <string name="new_game">Start a New Game</string>
+    <string name="android_turn">It is on enemy turn.</string>
+    <string name="your_turn">It is your turn (X).</string>
+    <string name="rst_tie">It is a tie!</string>
+    <string name="rst_win">You won!</string>
+    <string name="rst_lose">The enemy won!</string>
+
+    <string name="menu_exit">Exit</string>
+    <string name="menu_wiki">Tic Tac Toe Wiki</string>
+    <string name="menu_level1">Level 1</string>
+    <string name="menu_level2">Level 2</string>
+    <string name="menu_level3">Level 3</string>
+    <string name="wiki_website">https://en.wikipedia.org/wiki/Tic-tac-toe</string>
+
+
+    <string name="stroy_button">Story Background</string>
+    <string name="stroy_description">Fight for Misaka and save clone sisters.</string>
+
+</resources>

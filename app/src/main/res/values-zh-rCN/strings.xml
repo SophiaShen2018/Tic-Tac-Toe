@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">井字游戏</string>
+    <string name="you_first"> 你先下。</string>
+    <string name="enemy_first"> 敌人先下。</string>
+    <string name="new_game">开始新游戏</string>
+    <string name="android_turn">轮到敌人了！</string>
+    <string name="your_turn">轮到你了(X).</string>
+    <string name="rst_tie">平局！</string>
+    <string name="rst_win">你赢了!</string>
+    <string name="rst_lose">敌人赢了!</string>
+
+    <string name="menu_exit">退出</string>
+    <string name="menu_wiki">井字棋维基</string>
+    <string name="menu_level1">难度等级1</string>
+    <string name="menu_level2">难度等级2</string>
+    <string name="menu_level3">难度等级3</string>
+    <string name="wiki_website">https://zh.wikipedia.org/wiki/%E4%BA%95%E5%AD%97%E6%A3%8B</string>
+
+    <string name="stroy_button">故事背景</string>
+    <string name="stroy_description">为Misaka战斗，拯救克隆的妹妹们！</string>
+</resources>

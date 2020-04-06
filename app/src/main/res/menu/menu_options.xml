@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/menu_exit"
+        app:showAsAction="always"
+        android:title="@string/menu_exit" />
+
+    <item
+        android:id="@+id/menu_wiki"
+        app:showAsAction="always"
+        android:title="@string/menu_wiki" />
+
+    <item
+        android:id="@+id/menu_level1"
+        android:title="@string/menu_level1" />
+
+    <item
+        android:id="@+id/menu_level2"
+        android:title="@string/menu_level2" />
+
+    <item
+        android:id="@+id/menu_level3"
+        android:title="@string/menu_level3" />
+</menu>
